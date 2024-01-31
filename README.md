@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" title="ShellScript" alt="BashScript"/>&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
   <br/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Wolfram-Mathematica-0078d7.svg?style=for-the-badge&logo=Wolfram-Mathematica&logoColor=white" title="Wolfram-Mathematica" alt="Wolfram-Mathematica"/>&nbsp;
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" alt="LaTeX"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VSCode" alt="VSCode"/>&nbsp;
   
