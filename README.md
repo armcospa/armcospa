@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://pa1.aminoapps.com/7063/97e176079904575bfc015c1c1f36fd0e0e1f1b3ar1-540-303_hq.gif" width="500"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/pablo-armenteros-521157282/">
+  <a href="https://www.linkedin.com/in/pablo-armenteros">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
