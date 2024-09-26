@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-end: 0.3em; vertical-align: middle;"
-        alt="ORCID iD icon"/> &nbsp; <!---&nbsp;
+        alt="ORCID iD icon"/> &thinsp; <!---&nbsp;
   --->
     ORCID iD: <a
     id="cy-effective-orcid-url"
