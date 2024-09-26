@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 <li>
     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-end: 3em; vertical-align: middle;"
-        alt="ORCID iD icon"/> <!---&nbsp;&nbsp;
+        style="width: 1em; margin-inline-end: 0.3em; vertical-align: middle;"
+        alt="ORCID iD icon"/> &nbsp; <!---&nbsp;
   --->
     ORCID iD: <a
     id="cy-effective-orcid-url"
