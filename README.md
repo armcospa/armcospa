@@ -30,6 +30,19 @@ You can click the Preview link to take a look at your changes.
 <li>💼 I'm working as a Data Scientist specialised in Artificial Intelligence in BISITE Research Group </li>
 <li>🌱 I'm currently learning and improving my Machine Learning, Artificial Intelligence and Data Analysis skills </li>
 <li>📫 Contact me at <a href="mailto:armcospa@gmail.com">armcospa@gmail.com</a> </li>
+<li>     <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0009-6046-4986"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0009-6046-4986
+    </a></li>
 <hr/>
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
