@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <h1>Hi there 👋🤠</h1>
 </div>
 <hr/>
-<h3>:man_technologist: About Me :</h3> I'm a Data Scientist from Valladolid, Spain.
+<h3>:man_technologist: About Me :</h3> My name's Pablo Armenteros. I'm a Data Scientist from Valladolid, Spain.
 <li>🤠 My Pronouns are he/him </li>
 <li>📚 I've studied Physics Bachelor's Degree at the University of Valladolid (2022) and Secondary & High School Mathematics Teaching Master's Degree at the University of Salamanca (2023) </li>
 <li>💼 I'm working as a Data Scientist specialised in Artificial Intelligence in BISITE Research Group </li>
